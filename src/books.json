@@ -1,0 +1,41 @@
+[
+  {
+    "author": "Honore de Balzac",
+    "title": "Le Pere Goriot",
+    "pages": 500,
+    "shelves": [
+      {
+        "index": 1,
+        "shelf": {
+          "letter": "b"
+        }
+      }
+    ],
+  },
+  {
+    "author": "Honore de Balzac",
+    "title": "La Peau de chagrin",
+    "pages": 300,
+    "shelves": [
+      {
+        "index": 2,
+        "shelf": {
+          "letter": "b"
+        }
+      }
+    ]
+  },
+  {
+    "author": "Emile Zola",
+    "title": "Germinal",
+    "pages": 700,
+    "shelves": [
+      {
+        "index": 1,
+        "shelf": {
+          "letter": "z"
+        }
+      }
+    ]
+  }
+]
